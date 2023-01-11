@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{    
+    font-family: 'Sofia Sans', sans-serif; 
+}
+.pagewraper{
+    width: fill;
+    margin: 0 auto;
+}
+.pagewraper .head .links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    background-color: #ba68c8;
+    padding: 25px 0px;
+}
+.pagewraper .head .links .btn {
+    color: aliceblue;
+}
+.pagewraper .body .pic{
+    display: flex;
+    height: 200px;
+    width: fit-content;
+    margin-top: 20px ;
+    margin-right: 20px;
+    float: right;
+    border: solid #ba68c8 15px;
+    border-radius: 5px;
+}
+.pagewraper .body .me{
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 450px;
+} 
+.pagewraper .body .me .name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pagewraper .footer{
+    margin-top: 395px;
+    background-color: #90459d;
+}
+.pagewraper .footer .contact{
+    margin-left: 20px;
+}
