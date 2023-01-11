@@ -41,6 +41,9 @@ body{
     align-items: center;
     justify-content: center;
 }
+.pagewraper .body .me .about{
+    font-size: 25px;
+}
 .pagewraper .footer{
     margin-top: 395px;
     background-color: #90459d;
