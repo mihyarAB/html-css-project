@@ -23,10 +23,10 @@ body{
 }
 .pagewraper .body .pic{
     display: flex;
-    height: 200px;
+    height: 300px;
     width: fit-content;
-    margin-top: 20px ;
-    margin-right: 20px;
+    margin-top: 65px ;
+    margin-right: 120px;
     float: right;
     border: solid #ba68c8 15px;
     border-radius: 5px;
@@ -45,7 +45,7 @@ body{
     font-size: 25px;
 }
 .pagewraper .footer{
-    margin-top: 395px;
+    margin-top: 184px;
     background-color: #90459d;
 }
 .pagewraper .footer .contact{
